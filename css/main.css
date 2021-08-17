@@ -50,6 +50,7 @@ li {
 .ex-li p {
    width: 550px;
    margin-top: 15px;
+   line-height: 25px;
 }
 
 .ex-item::before {
@@ -71,3 +72,5 @@ li {
 .item3::before {
    background-image: url("https://assets.htmlacademy.ru/img/tutors/bottle-icon.svg");
 }
+
+
